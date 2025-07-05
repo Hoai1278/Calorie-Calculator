@@ -4,5 +4,5 @@ Go figure what it does.
 
 ## Creators
 
-Bee [https://www.instagram.com/bee.kawin/](Instagram)
-Hoai [https://www.instagram.com/hoai_1278/](Instagram) [https://github.com/Hoai1278](GitHub)
+Bee [Instagram](https://www.instagram.com/bee.kawin/)
+Hoai [Instagram](https://www.instagram.com/hoai_1278/) [GitHub](https://github.com/Hoai1278)
