@@ -36,10 +36,10 @@ class _WidgetTreeState extends State<WidgetTree> {
           return  pages.elementAt(selectedPage);
         },
       ),
-      floatingActionButton: FloatingActionButton(
+      /*floatingActionButton: FloatingActionButton(
         onPressed: () {},
         child: Icon(Icons.camera_alt),
-      ),
+      ),*/
       bottomNavigationBar: NavBarWidget(),
       );
   }
